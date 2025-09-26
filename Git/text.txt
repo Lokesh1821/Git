@@ -1,5 +1,0 @@
-<h1> This is the text fiele</h1><br>
-<p> this is paragraph</p>
-
-<p> Hello Lokii </p>
-<p>
